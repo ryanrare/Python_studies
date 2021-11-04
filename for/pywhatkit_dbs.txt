@@ -1,0 +1,46 @@
+--------------------
+Date: 4:10:2021
+Time: 18:15
+Phone number: +553198316-5687
+Message: Os pratos cadastrados hoje foram: ['arroz']
+--------------------
+Date: 4:10:2021
+Time: 20:13
+Phone number: +553198316-5687
+Message: Os pratos cadastrados hoje foram: []
+--------------------
+Date: 4:10:2021
+Time: 20:20
+Phone number: +5531993229829
+Message: Os pratos cadastrados hoje foram: ['arroz', 'peix']
+--------------------
+Date: 6:10:2021
+Time: 8:42
+Phone number: +5531983165687
+Message: Os pratos cadastrados hoje foram: ['arros e feijao']
+--------------------
+Date: 6:10:2021
+Time: 8:45
+Phone number: +5531983165687
+Message: Os pratos cadastrados hoje foram: ['arros e feijao']
+--------------------
+Date: 6:10:2021
+Time: 8:48
+Phone number: +5531986051978
+Message: Os pratos cadastrados hoje foram: ['arroz', 'feijao']
+--------------------
+Date: 6:10:2021
+Time: 8:53
+Phone number: +5531986051978
+Message: Os pratos cadastrados hoje foram: ['macarrao com feijao']
+--------------------
+Date: 21:10:2021
+Time: 21:24
+Phone number: +5531986129854
+Message: Os pratos cadastrados hoje foram: []
+--------------------
+Date: 21:10:2021
+Time: 21:27
+Phone number: +5531986129854
+Message: Os pratos cadastrados hoje foram: ['arroz', 'feijao']
+--------------------

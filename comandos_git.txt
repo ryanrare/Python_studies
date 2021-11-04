@@ -1,0 +1,8 @@
+1- adicionar mudanças nos arquivos:
+-   git add .
+2- commitar mensagem - esta aprovando as mudanças, e informando o que foi feito
+-   git commit -am "mensagem do commit"
+3- git pull origin master - trazer mudanças do repositorio remoto
+-   git pull origin master
+4- enviar arquivos para o github
+-   git push origin master
