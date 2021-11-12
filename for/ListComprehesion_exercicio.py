@@ -1,7 +1,12 @@
-carrinho = []
-carrinho.append(('roupa 1', 25.50))
-carrinho.append(('roupa 1', 35))
-carrinho.append(('roupa 1', 45))
+frase = 'o rato roeu a roupa do rei de roma'
+tamanho_frase = len(frase)
+contador = 0
+nova_string = ''
 
-total = sum([float(y) for x, y in carrinho])
-print(total)
+while contador < tamanho_frase:
+    letra = frase[contador]
+    if letra == 'r':
+        nova_string += 'R'
+    else: contador +=1
+
+print(nova_string)
