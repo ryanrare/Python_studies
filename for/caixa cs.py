@@ -9,6 +9,5 @@ def numeros_pares(lista: list) -> list:
     return listaPares
 
 
-
 print(numeros_pares(lista1))
 
