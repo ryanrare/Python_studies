@@ -1,15 +1,3 @@
-lista1 = [int(x) for x in range(1000)]
-
-
-def numeros_pares(lista: list) -> list:
-    listaPares = list()
-    for x  in lista:
-        if x % 2 == 0:
-            listaPares.append(x)
-    return listaPares
-
-
-print(numeros_pares(lista1))
 
 pessoas = [
     {'nome': 'n1', 'idade': '32'},
@@ -35,3 +23,4 @@ produtos = [
     {'nome': 'p9', 'preco': 12},
     {'nome': 'p10', 'preco': 324},
 ]
+lista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
