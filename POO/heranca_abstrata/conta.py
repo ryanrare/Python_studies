@@ -6,7 +6,7 @@ class Conta(ABC):
         self._conta = conta
         self._saldo = saldo
 
-    w@property
+    @property
     def agencia(self):
         return self._agencia
 

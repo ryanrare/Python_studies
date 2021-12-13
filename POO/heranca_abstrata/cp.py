@@ -1,4 +1,4 @@
-from classes.conta import Conta
+from .conta import Conta
 
 
 class ContaPoupanca(Conta):
